@@ -1,4 +1,14 @@
 body{
-background-color: gray;
 
+}
+
+.main{
+background-color: gray;
+font-family: monospace;
+}
+
+.side{
+background-color: white;
+font-size: 14px;
+font-family: sans-serif;
 }
