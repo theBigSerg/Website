@@ -1,0 +1,88 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+.link{
+  text-align: right;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+.CMU{
+  border-style: solid;
+  border-color: #b50101;
+  background-color: #b50101;
+  color: white;
+}
+.SU{
+  border-style: solid;
+  border-color: #b90000;
+  color: #004900;
+  background-color: white;
+}
+.UCB{
+  border-style: solid;
+  border-color: black;
+  background-color: black;
+  color: #2d51b2;
+}
+.CIT{
+  border-style: solid;
+  border-color: black;
+  background-color: black;
+  color: #ff7100;
+}
+.UCSD{
+  border-style: solid;
+  border-color: #ffeb30;
+  background-color: black;
+  color: #2543a7;
+}
+.UCLA{
+  border-style: solid;
+  border-color: #e38043;
+  background-color: black;
+  color: #3b9bbb;
+}
+.UCSB{
+  border-style: solid;
+  border-color: #000085;
+  background-color: black;
+  color: #e8e8e8;
+}
+.USD{
+  border-style: solid;
+  border-color: deepskyblue;
+  background-color: black;
+  color: deepskyblue;
+}
+.UCI{
+  border-style: solid;
+  border-color: yellow;
+  background-color: black;
+  color: #17175d;
+}
+.ASU{
+  border-style: solid;
+  border-color: #ab0000;
+  background-color: white;
+  color: black;
+}
+.SDSU{
+  border-style: solid;
+  border-color: black;
+  background-color: #9b0f0f;
+  color: white;
+}
