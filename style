@@ -2,13 +2,78 @@ body{
 
 }
 
+img{
+  width: 100px;
+  float: right;
+}
+
 .main{
-background-color: gray;
-font-family: monospace;
+  font-family: monospace;
 }
 
 .side{
-background-color: white;
-font-size: 14px;
-font-family: sans-serif;
+  /background-color: white;
+  font-size: 14px;
+  font-family: sans-serif;
+
+}
+.soccer{
+  background-color: green;
+  font-family: cursive;
+  border-style: groove;
+  border-color: #000000;
+  border-width: 5px;
+  border-radius: 4em;
+  color: #000000;
+}
+.chess{
+  background-color: antiquewhite;
+  font-family: fantasy;
+  border-style: dashed;
+  border-color: brown;
+  border-width: 2px;
+  color: black;
+}
+.python{
+  background-color: black;
+  font-family: monospace;
+  border-style: dotted;
+  border-color: gray;
+  border-width: 3px;
+  border-radius: 47px;
+  color: green;
+}
+.java{
+  background-color: black;
+  font-family: sans-serif;
+  border-style: ridge;
+  border-color: deepskyblue;
+  border-width: 4px;
+  border-radius: 0px;
+  color: red;
+}
+.volunteer{
+  background-color: black;
+  font-family: serif;
+  border-style: double;
+  border-color: darkblue;
+  border-width: 4px;
+  border-radius: 0px;
+  color: blue;
+}
+
+
+
+
+h3{
+  text-decoration: underline;
+  font-style: italic;
+}
+p{
+  font-family: cursive;
+  font-size: 14px;
+}
+
+h4{
+  font-size: 18px;
 }
