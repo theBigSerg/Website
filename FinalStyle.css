@@ -1,0 +1,23 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.pic{
+  text-align: center;
+}
+.goodbye{
+  border-color: aquamarine;
+  border-style: inset
+}
+.link{
+  text-align: right;
+}
