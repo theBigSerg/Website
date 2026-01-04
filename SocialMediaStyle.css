@@ -1,0 +1,26 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-decoration: line-through;
+  text-align: center;
+}
+h4{
+  font-size: 16px;
+}
+h5{
+  font-size: 16px;
+  background-color: black;
+}
+h6{
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+.link{
+  text-align: right;
+}
