@@ -1,0 +1,13 @@
+body {
+  background-image: url(130-baby-supreme-backpack.gif);
+  background-size: cover
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.link{
+  text-align: right
+}
