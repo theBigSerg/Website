@@ -16,3 +16,29 @@ img{
   width: 100px;
   float: right;
 }
+.artist{
+  
+  display:flex;
+  align-items: center;
+  grid-gap: 20px;
+}
+.text{
+  text-align: center;
+  border-style: solid;
+  
+}
+.album{
+  float:none;
+  display: inline-block;
+  vertical-align: middle;
+}
+.caption{
+  text-align: center;
+  border-style: solid;
+}
+.portrait{
+  float:none;
+  display: inline-block;
+  vertical-align: middle;
+  width: 125px;
+}
